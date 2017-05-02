@@ -1,2 +1,2 @@
 # octo-doodle
-Google js extension
+Google js extension for chrome.
